@@ -7,6 +7,7 @@ Details such as height, weight, type and even attacks are displayed.
 <br>
 Just enter your Pokemon name and you are good to go.
 <br>
+<br>
 Visit the Website : https://poke-info-assassin1771.netlify.app/
 <!-- 
 Project Status
@@ -44,6 +45,6 @@ http://localhost:3000
 <br>
 I am really fond of the Pokemon World.
 <br>
-So, I came up with a idea of this application and created it with React JS and Material UI along with Poke API.
+So, I came up with an idea of this application and created it with React JS and Material UI along with Poke API.
 <br>
 Hope you like it!!
